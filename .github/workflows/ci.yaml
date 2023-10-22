@@ -10,7 +10,7 @@ on:
 
 jobs:
   build-and-test:
-    if: ${{ github.repository != 'jackyzha0/quartz' }}
+    if: ${{ github.repository == 'jackyzha0/quartz' }}
     strategy:
       matrix:
         os: [windows-latest, macos-latest, ubuntu-latest]
@@ -45,9 +45,3 @@ jobs:
 
       - name: Ensure Quartz builds, check bundle info
         run: npx quartz build --bundleInfo
-
-      - name: Debug Quartz-generated files
-       run: |
-         cd public
-         ls
-         cd ..
