@@ -79,3 +79,9 @@ jobs:
           dir: public
           clean: true
 
+      - name: Debug Quartz-generated files
+       run: |
+        cd public
+        ls
+        cd ..
+
