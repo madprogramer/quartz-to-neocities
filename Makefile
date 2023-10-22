@@ -6,4 +6,4 @@ replace-index-page:
 	#rm -f -- _site/index.html.template
 	#touch public/index.html
 	cp custom/index.html public/index.html
-	cp custom/index.css public/index.css
+	cp custom/homepage.css public/homepage.css
