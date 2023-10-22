@@ -10,11 +10,11 @@ on:
 
 jobs:
   build-and-test:
-    #if: ${{ github.repository == 'jackyzha0/quartz' }}
-    #strategy:
-    #  matrix:
-    #    os: [windows-latest, macos-latest, ubuntu-latest]
-    #runs-on: ${{ matrix.os }}
+    if: ${{ github.repository != 'jackyzha0/quartz' }}
+    strategy:
+      matrix:
+        os: [windows-latest, macos-latest, ubuntu-latest]
+    runs-on: ${{ matrix.os }}
     permissions:
       contents: write
     steps:
