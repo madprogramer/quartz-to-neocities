@@ -54,3 +54,23 @@ jobs:
          cd public
          ls
          cd ..
+
+      # Step 3: Push to Neocities
+      - if: ${{ success() && github.ref == 'refs/heads/main' }}
+        id: deploy
+        continue-on-error: true
+        uses: bcomnes/deploy-to-neocities@v1
+        with:
+          api_token: ${{ secrets.NEOCITIES_API_KEY }}
+          dist_dir: public #Have to do it this way because .template is unrecognized
+          cleanup: true
+
+      # Step 3 B: Try the Fallback
+      - name: Deploy to Neocities fallback
+        if: ${{ steps.deploy.outcome == 'failure' && github.ref == 'refs/heads/main' }}
+        uses: jonchang/deploy-neocities@master
+        with:
+          key: ${{ secrets.NEOCITIES_API_KEY }}
+          dir: public
+          clean: true
+
