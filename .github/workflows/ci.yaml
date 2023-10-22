@@ -37,6 +37,9 @@ jobs:
 
       - run: npm ci
 
+      - name: Pretier
+        run: npm run format
+
       - name: Check types and style
         run: npm run check
 
