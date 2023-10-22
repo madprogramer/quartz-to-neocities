@@ -80,8 +80,8 @@ jobs:
           clean: true
 
       - name: Debug Quartz-generated files
-       run: |
-        cd public
-        ls
-        cd ..
+        run: |
+          cd public
+          ls
+          cd ..
 
