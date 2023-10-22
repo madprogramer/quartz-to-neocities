@@ -60,8 +60,9 @@ jobs:
       # Step 2: Make to update custom homepage + move any files from /sites
       - run: make
 
-      # Step 3: Push to Neocities
-      - if: ${{ success() && github.ref == 'refs/heads/main' }}
+      # Step 3: Push
+      #- if: ${{ success() && github.ref == 'refs/heads/main' }}
+      - if: ${{ success() && github.ref == 'refs/heads/madpro.neocities.org' }}
         id: deploy
         continue-on-error: true
         uses: bcomnes/deploy-to-neocities@v1
@@ -72,7 +73,8 @@ jobs:
 
       # Step 3 B: Try the Fallback
       - name: Deploy to Neocities fallback
-        if: ${{ steps.deploy.outcome == 'failure' && github.ref == 'refs/heads/main' }}
+        #if: ${{ steps.deploy.outcome == 'failure' && github.ref == 'refs/heads/main' }}
+        if: ${{ steps.deploy.outcome == 'failure' && github.ref == 'refs/heads/madpro.neocities.org' }}
         uses: jonchang/deploy-neocities@master
         with:
           key: ${{ secrets.NEOCITIES_API_KEY }}
