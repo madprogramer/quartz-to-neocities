@@ -48,6 +48,6 @@ jobs:
 
       - name: Debug Quartz-generated files
        run: |
-       cd public
-       ls
-       cd ..
+         cd public
+         ls
+         cd ..
