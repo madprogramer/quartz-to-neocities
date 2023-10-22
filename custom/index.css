@@ -1,0 +1,187 @@
+body {
+	font-size:1.2rem;
+	padding:2em;
+  font-family: sans-serif;
+	background-color:#68a8d8;
+	background-image: 
+		linear-gradient(
+			45deg, 
+			#80d890 25%, 
+			transparent 25%, 
+			transparent 75%, 
+			#80d890 75%
+		), 
+		linear-gradient(
+			45deg, 
+			#80d890 25%, 
+			transparent 25%, 
+			transparent 75%, 
+			#80d890 75%
+		);
+  background-size: 60px 60px;
+	background-position: 0 0, 30px 30px;
+  animation: slide 4s infinite linear;
+}
+
+@keyframes slide {
+  from {
+	background-position: 0 0, 30px 30px;
+  }
+
+  to {
+	background-position: 0 0, -30px -30px;
+  }
+}
+
+main {
+	max-width:600px;
+	margin:auto;
+}
+
+.right {
+	text-align:right;
+}
+
+p {
+	margin-bottom:0;
+}
+
+.grid {
+	display:flex;
+}
+
+.grid.between {
+	justify-content:space-between;
+}
+
+.column:first-child {
+	margin-right:0.5em;
+}
+
+/* EARTHBOUND STYLE CHATBOX */
+.box {
+	min-width:5em;
+	display:inline-block;
+	position:relative;
+	vertical-align:top;
+	background-color: #280828;
+	color:#e7e6b3;
+	padding:5px 3px;
+	border-radius:1px;
+	transform:translateY(0);
+	transition: transform linear 150ms;
+  box-shadow:
+    0 0 0 5px #383050, /* dark grey */
+    0 0 0 10px #68d0b8, /* minty blue */
+		0 0 0 12px #f7e8a8, /* white */
+		0 0 0 15px #3d3c55; /* black */
+}
+
+.characters figure:hover .box {
+	transform:translateY(-0.1em);
+}
+
+.box.full {
+	width:100%;
+	margin-top:2em;
+	display:block;
+}
+
+
+/* BUTTONS */
+button {
+	position:relative;
+	cursor:pointer;
+	background:transparent;
+	border:0;
+	color:#e7e6b3;
+	font-size:1em;
+}
+
+.box .grid.between button:first-child
+{
+	margin-right:1em;
+}
+
+.box .grid.between button:hover::before {
+	content:'';
+	position:absolute;
+	left:-0.3em;
+	top:0.4em;
+  width: 0; 
+  height: 0; 
+  border-top: 0.3rem solid transparent;
+  border-bottom: 0.3rem solid transparent;
+  border-left: 0.3rem solid #e7e6b3;
+}
+
+.characters figcaption {
+	margin-top:0.5em;
+}
+
+.characters figure span {
+	width:32px;
+	height:48px;
+	margin-right:1.5em;
+	display:inline-block;
+	background-size:auto;
+  background-blend-mode: multiply;
+}
+	
+.ness span {
+	background-image:url('http://www.videogamesprites.net/Earthbound/Party/Ness/Ness%20(Front).gif');
+}
+
+.ness:hover span {
+	background-image:url('http://www.videogamesprites.net/Earthbound/Party/Ness/Ness%20-%20Walk%20(Front).gif')
+}
+
+.paula span {
+	background-image:url('http://www.videogamesprites.net/Earthbound/Party/Paula/Paula%20(Front).gif');
+}
+
+.paula:hover span {
+	background-image:url('http://www.videogamesprites.net/Earthbound/Party/Paula/Paula%20-%20Walk%20(Front).gif');
+}
+
+.jeff span {
+	background-image:url('http://www.videogamesprites.net/Earthbound/Party/Jeff/Jeff%20(Front).gif');
+}
+
+.jeff:hover span {
+	background-image:url('http://www.videogamesprites.net/Earthbound/Party/Jeff/Jeff%20-%20Walk%20(Front).gif');
+}
+
+.poo span {
+	background-image:url('http://www.videogamesprites.net/Earthbound/Party/Poo/Poo%20(Front).gif');
+}
+
+.poo:hover span {
+	background-image:url('http://www.videogamesprites.net/Earthbound/Party/Poo/Poo%20-%20Walk%20(Front).gif');
+}
+
+.king span {
+	width:48px !important;
+	height:40px !important;
+	background-image:url('http://www.videogamesprites.net/Earthbound/NPCs/Nonhuman/Animals/King%20(Left).gif');
+}
+
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: lightgreen;
+}
+
+/* mouse over link */
+a:hover {
+  color: orange;
+}
+
+/* selected link */
+a:active {
+  color: lightblue;
+}
