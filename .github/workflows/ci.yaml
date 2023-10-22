@@ -10,10 +10,10 @@ on:
 
 jobs:
   build-and-test:
-    #if: ${{ github.repository == 'madprogramer/quartz-to-neocities' }}
-    #strategy:
-    #  matrix:
-    #    os: [windows-latest, macos-latest, ubuntu-latest]
+    if: ${{ github.repository == 'madprogramer/quartz-to-neocities' }}
+    strategy:
+      matrix:
+        os: [windows-latest, macos-latest, ubuntu-latest]
     runs-on: ${{ matrix.os }}
     permissions:
       contents: write
