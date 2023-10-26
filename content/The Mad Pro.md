@@ -16,4 +16,5 @@ Cool `Madpro` Facts:
 * My secret-not-secret passion in linguistics. Notably, I administer the [Cult of Linguists](https://linguistics.stackexchange.com/users/17465/madprogramer) group on Quora.
 * I am working on a music recs site for folks interested: https://reallycoolwebsite.net/~madpro-musicrecs/all
 * I like collecting [[Pixel Art]].
+* I am always juggling a lot of tasks, if you ever wonder what I am currently working on see my [Trello Board](https://trello.com/b/GfQkprzF) 
 * Amateur baker 🧑🏼‍🍳.
