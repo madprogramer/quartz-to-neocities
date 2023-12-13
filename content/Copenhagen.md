@@ -1,0 +1,1 @@
+If you are moving to the lovely city Copenhagen, be sure to read up on https://rentalrules.dk/
