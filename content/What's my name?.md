@@ -1,5 +1,3 @@
-A) [[The Mad Pro|The Mad Programmer]]
+A) [[The Mad Pro]]
 
-B) [[The Mad Pro]]
-
-C) [[Ahmet Akkoç]]
+B) [[Ahmet Akkoç]]

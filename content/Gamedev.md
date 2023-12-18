@@ -12,7 +12,7 @@ itch.io: https://themadprogramer.itch.io/
 * I am helping a friend make an [ULTRAKILL](https://store.steampowered.com/app/1229490/ULTRAKILL) card game, let's see how that will turn out.
 * [[SpilBar]].
 #### 2022:
-* I saved up enough to go to [Paradox CON '22'](https://www.paradoxinteractive.com/pdxcon). This has probably been the biggest "gaming" event I have ever attended. It was great for meeting developers, the Swedish game scene, modders, livestreamers and other cool folks.
+* I saved up enough to go to [Paradox CON '22](https://www.paradoxinteractive.com/pdxcon). This has probably been the biggest "gaming" event I have ever attended. It was great for meeting developers, the Swedish game scene, modders, livestreamers and other cool folks.
 	* Unlike some people, I am a fan of the new Victoria 3 and am actually working on modding.
 	* Something, something [Kaiserreich](https://www.reddit.com/r/Kaiserreich/).
 * [[SpilBar]]
