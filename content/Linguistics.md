@@ -1,6 +1,7 @@
 Linguistics is broadly the study of language.
 
 ## Where to find me if you also like linguistics?
+
 * I frequently post to the [Cult of Linguists](https://col.quora.com/) group on Quora.
 * I also have a [Linguistics Stack Exchange](https://stackoverflow.com/users/2089784/madprogramer) account
 
@@ -21,5 +22,5 @@ I have had people advise me to move instead in the directions of anthropology or
 ## Why should you care about linguistics?
 
 * Linguistics is humbling. Every day you study linguistics, you learn something you never knew before. Maybe a forgotten word, perhaps an untranslated concept.. You realise how little you knew before and what you did know gains a much heavier contextual meaning.
-* Linguistics is enlightening. The world becomes less of a map with borders and instead a pool. Things that would have seemed blurry or alien before, slowly become more visible. I swear, there are few things more satisfying than becoming literate in a new writing system.
-* Linguistics is liberating. [A language is a dialect with an army and navy](https://en.wikipedia.org/wiki/A_language_is_a_dialect_with_an_army_and_navy) as Weinreich's saying goes. The way we look at and understand language determines the roles people play in society. Understanding language, therefore, helps one see through societal illusions and instead realise meaningful ideals
+* Linguistics is enlightening. The world becomes less of a map with borders and instead a swimming pool. Things that would have seemed blurry or alien before, slowly become more visible. I swear, there are few things more satisfying than becoming literate in a new writing system.
+* Linguistics is liberating. [A language is a dialect with an army and navy](https://en.wikipedia.org/wiki/A_language_is_a_dialect_with_an_army_and_navy) as Weinreich's saying goes. The way we look at and understand language determines the roles people play in society. Understanding language, therefore, helps one see through societal illusions and instead realise meaningful ideals.
