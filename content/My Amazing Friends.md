@@ -15,7 +15,7 @@ You know, like [Spiderman and His Amazing Friends](https://tvtropes.org/pmwiki/p
 * [Cadence](https://cadence.moe/)
 	* My friend from the [[Web Archiving|Archivist Scene]].
 	* Cadence is solely devoted to oldweb nowadays. You can even access their weblog on [Gemini](gemini://cadence.moe).
- <a href="https://cadence.moe" target="_blank"><img src="https://cadence.moe/static/img/cadence_now.png" alt="The text &quot;cadence now!&quot; on a purple background. There is a moon-shaped logo on the left side and a tiny star in the bottom right." width="88" height="31"></a>
+ <a href="https://cadence.moe" target="_blank" style="border-radius: 0;"><img src="https://cadence.moe/static/img/cadence_now.png" alt="The text &quot;cadence now!&quot; on a purple background. There is a moon-shaped logo on the left side and a tiny star in the bottom right." width="88" height="31"></a>
 * [Daniel Ptashny](https://www.instagram.com/dptashny/):
 	* My friend from my [[Quora]] days.
 	* Daniel, much like myself, no longer blogs as much as he used to; but you can follows his travels on [Instagram](https://www.instagram.com/dptashny/).
