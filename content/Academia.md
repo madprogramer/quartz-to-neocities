@@ -19,6 +19,8 @@ To learn more about Academia, I would highly recommend the [Academia Stack Excha
 
 The ideal of having knowledge gained through shared contribution is a great ideal. Even just "pay to learn" sounds like heaven. But in practice, Academia is littered with Red Tape, Gatekeeping and inexplicable Elitism. In spite of this, there is in Academia a certain pride that this order is necessary to maintain scientific integrity. Yet today Academia is an engine without wheels. It has long ceased to be the disseminator of its own knowledge. 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8F9gzQz1Pms?si=qAejsd8vv-DgR6vk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 All the while, the role of scientists and science communicators has been largely taken over by podcasters and influencers. Names like Joe Rogan, Jordan Peterson or Andrew Tate have defined this generation's understanding of the world through their (very often mistaken) interpretation of facts. Yes and those are all men, because casual sexism is apparently in, now.
 
 After failures in getting my own research published _academically_, either due to stringent submission/acceptance criteria or mismatch in values, I decided to quit my studies after graduating from my Master's in Data Science. I went full-time in my part-time job and I am now a part of research and open-source software outside of Academia.
