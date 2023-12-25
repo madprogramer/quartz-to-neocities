@@ -2,8 +2,10 @@ My Favorites Bar of cool and good sites.
 [[WIP]]
 
 * [[favs/CLIST]]
+* [[favs/colonist]]
 * [[favs/everything2]]
 * [[favs/firstcontributions]]
+* [[favs/terraforming-mars]]
 ## Why?
 
 Favorites or Bookmarks bars have been around for ages as a shortcut for people to save webpages they want to come back to. 

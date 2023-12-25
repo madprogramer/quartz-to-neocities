@@ -1,6 +1,6 @@
 https://www.everything2.com/
 
-For the English version of this page see [[everything2]]
+[[everything2|English]]
 
 ----
 

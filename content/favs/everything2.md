@@ -1,9 +1,7 @@
 https://www.everything2.com/
-
-Bu sayfanın Türkçesi için: [[everything2 (Türkçe)]]
+[[everything2 (Türkçe)|Türkçe]]
 
 --------
-
 
 Yo, everything was so good they actually made an everything2!
 
