@@ -3,7 +3,7 @@ Some people play games, some people make games. Gamedev is short for Game develo
 itch.io: https://themadprogramer.itch.io/
 #### 2024:
 * https://github.com/madprogramer/Caricatures-Comics-Cartoons/tree/main
-#### 2023: 
+#### 2023:
 * No new games this year! ¯\\_(⁰͡ ͜ʖ⁰͡ )_/¯
 * I have been modding Victoria 3, the only mod I have publicly released is my mod of the [Skyrim Intro](https://steamcommunity.com/sharedfiles/filedetails/?id=2949175547).
 * I have, however, written on gamedev for ITU Copenhagen's [lowscoremag](https://lowscore.dk/about/):
@@ -17,8 +17,8 @@ itch.io: https://themadprogramer.itch.io/
 	* Something, something [Kaiserreich](https://www.reddit.com/r/Kaiserreich/).
 * [[SpilBar]]
 * Playtesting + Variants for [Routers](https://rpggeek.com/rpg/78636/routers-rpg)
-#### 2021: 
-* I got into boardgames again.
+#### 2021:
+* I got into [[Board Games]] again.
 #### 2020
 * I co-hosted [Stranger Jam (19-26 June 2020)](https://itch.io/jam/strangerjam2020). In Stranger Jam participants were only allowed to team up with people they hadn’t met before, hence people who were complete “strangers”. Stranger Jam was a unique twist on the usual game jam formula, allowing participants to collaborate with new people, instead of only competing against one another.
 
@@ -35,7 +35,7 @@ itch.io: https://themadprogramer.itch.io/
 
 In the beginning: I was terrified of games growing up. Watching cartoons or reading stories, that was easy. Every character played their part in the story and I was an observer. But games were different. They brought a serious fear of agency within me. When I defeated the enemies was I killing them? When I failed was I dooming the hero? Those questions haunted me while playing and in my nightmares as I slept.
 
-I only embraced games as a form of escapism thanks to a good friend who `convert`ed me. He taught me to see games like a saw cartoons or stories, as escapes from the confines of reality. Many people I know are afraid to admit they like games out of seeming immature or childish. But as someone who has had a legitimate fear of games, I implore you to reconsider. Find the games you like, learn to appreciate them.
+I only embraced games as a form of escapism thanks to a good friend who `convert`ed me. He taught me to see games like I saw cartoons or stories, as escapes from the confines of reality. Many people I know are afraid to admit they like games out of seeming immature or childish. But as someone who has had a legitimate fear of games, I implore you to reconsider. Find the games you like, learn to appreciate them.
 
 My form of appreciation was to become a maker of games myself. But said friend who originally converted me to games could never partner with me as a developer, out of self-doubt. We spent our days playing through games and critiquing them that it made it impossible for him to be satisfied with anything he made, as he would recognise it as subpar.
 
