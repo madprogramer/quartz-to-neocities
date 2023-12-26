@@ -1,0 +1,1 @@
+Persons, places and things I wanted to save for later. Unlike [[Favorites Bar]], this section is not so much focussed on platforms or communities. These are especially personal memories, whose significance might escape most people.

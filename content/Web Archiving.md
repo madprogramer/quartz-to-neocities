@@ -4,6 +4,7 @@ If you would like to learn more about web archiving I would recommend [[Data Hor
 
 Personal Projects:
 * [[Favorites Bar]]
+* [[Bookmarks]]
 
 ----
 
