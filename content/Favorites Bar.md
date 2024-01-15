@@ -5,6 +5,7 @@ My Favorites Bar of cool and good sites.
 * [[favs/colonist]]
 * [[favs/everything2]]
 * [[favs/firstcontributions]]
+* [[monologuedb]]
 * [[favs/terraforming-mars]]
 ## Why?
 
