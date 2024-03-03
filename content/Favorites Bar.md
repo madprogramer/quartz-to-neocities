@@ -3,12 +3,15 @@ My Favorites Bar of cool and good sites.
 
 * [[favs/AlgoWiki]]
 * [[favs/AlternativeTo]]
+* [[favs/Andersen Stories]]
 * [[favs/CLIST]]
 * [[favs/colonist]]
 * [[favs/everything2]]
 * [[favs/firstcontributions]]
-* [[monologuedb]]
+* [[favs/Grimm Stories]]
+* [[favs/monologuedb]]
 * [[favs/terraforming-mars]]
+
 ## Why?
 
 Favorites or Bookmarks bars have been around for ages as a shortcut for people to save webpages they want to come back to. 
