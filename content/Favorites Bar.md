@@ -1,6 +1,8 @@
 My Favorites Bar of cool and good sites.
 [[WIP]]
 
+* [[favs/AlgoWiki]]
+* [[favs/AlternativeTo]]
 * [[favs/CLIST]]
 * [[favs/colonist]]
 * [[favs/everything2]]
