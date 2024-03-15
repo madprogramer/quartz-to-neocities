@@ -11,6 +11,7 @@ My Favorites Bar of cool and good sites.
 * [[favs/Grimm Stories]]
 * [[favs/monologuedb]]
 * [[favs/terraforming-mars]]
+* [[favs/vim-adventures]]
 
 ## Why?
 
