@@ -23,3 +23,5 @@ Cool `Madpro` Facts:
 * I like collecting [[Pixel Art]].
 * I am always juggling a lot of tasks, if you ever wonder what I am currently working on see my [Trello Board](https://trello.com/b/GfQkprzF) 
 * Amateur baker 🧑🏼‍🍳.
+
+If you are looking for information on [[Ahmet Akkoç]] click here.
